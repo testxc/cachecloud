@@ -97,7 +97,7 @@
 
 + JDK 7+
 + Maven 3
-+ MySQL 5.5
++ MySQL 5.5/5.6
 + Redis 3
 
 <a name="cc7"/>
